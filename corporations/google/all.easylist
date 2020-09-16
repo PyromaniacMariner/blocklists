@@ -11,12 +11,12 @@
 ||accounts.youtube.com^
 ||accounts.youtube.com^$popup
 ||accounts.youtube.com^$third-party
-||admin-dev.youtube.com^
-||admin-dev.youtube.com^$popup
-||admin-dev.youtube.com^$third-party
 ||admin.youtube.com^
 ||admin.youtube.com^$popup
 ||admin.youtube.com^$third-party
+||admin-dev.youtube.com^
+||admin-dev.youtube.com^$popup
+||admin-dev.youtube.com^$third-party
 ||admob.com^
 ||admob.com^$popup
 ||admob.com^$third-party
@@ -137,9 +137,6 @@
 ||googl.com^
 ||googl.com^$popup
 ||googl.com^$third-party
-||google-analytics.com^
-||google-analytics.com^$popup
-||google-analytics.com^$third-party
 ||google.ac^
 ||google.ac^$popup
 ||google.ac^$third-party
@@ -752,6 +749,9 @@
 ||googleanalytics.com^
 ||googleanalytics.com^$popup
 ||googleanalytics.com^$third-party
+||google-analytics.com^
+||google-analytics.com^$popup
+||google-analytics.com^$third-party
 ||googleapis.com^
 ||googleapis.com^$popup
 ||googleapis.com^$third-party
@@ -983,9 +983,6 @@
 ||youtu.be^
 ||youtu.be^$popup
 ||youtu.be^$third-party
-||youtube-nocookie.com^
-||youtube-nocookie.com^$popup
-||youtube-nocookie.com^$third-party
 ||youtube.be^
 ||youtube.be^$popup
 ||youtube.be^$third-party
@@ -1016,6 +1013,9 @@
 ||youtubegaming.com^
 ||youtubegaming.com^$popup
 ||youtubegaming.com^$third-party
+||youtube-nocookie.com^
+||youtube-nocookie.com^$popup
+||youtube-nocookie.com^$third-party
 ||yt.be^
 ||yt.be^$popup
 ||yt.be^$third-party

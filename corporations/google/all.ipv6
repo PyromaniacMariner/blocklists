@@ -2,8 +2,8 @@
 ::1 466453.com
 ::1 abc.xyz
 ::1 accounts.youtube.com
-::1 admin-dev.youtube.com
 ::1 admin.youtube.com
+::1 admin-dev.youtube.com
 ::1 admob.com
 ::1 ads.youtube.com
 ::1 adsense.com
@@ -44,7 +44,6 @@
 ::1 googel.com
 ::1 googil.com
 ::1 googl.com
-::1 google-analytics.com
 ::1 google.ac
 ::1 google.ad
 ::1 google.ae
@@ -249,6 +248,7 @@
 ::1 googleadapis.l.google.com
 ::1 googleadservices.com
 ::1 googleanalytics.com
+::1 google-analytics.com
 ::1 googleapis.com
 ::1 googleapps.com
 ::1 googlearth.com
@@ -326,7 +326,6 @@
 ::1 whatbrowser.org
 ::1 withgoogle.com
 ::1 youtu.be
-::1 youtube-nocookie.com
 ::1 youtube.be
 ::1 youtube.co.uk
 ::1 youtube.com
@@ -337,5 +336,6 @@
 ::1 youtube.pl
 ::1 youtubeeducation.com
 ::1 youtubegaming.com
+::1 youtube-nocookie.com
 ::1 yt.be
 ::1 ytimg.com

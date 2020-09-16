@@ -32,11 +32,11 @@
 ::1 shavar.services.mozilla.com
 ::1 support.mozilla.org
 ::1 tbpl.mozilla.org
-::1 telemetry-experiment.cdn.mozilla.net
 ::1 telemetry.mozilla.org
+::1 telemetry-experiment.cdn.mozilla.net
 ::1 tiles.services.mozilla.com
 ::1 token.services.mozilla.com
-::1 versioncheck-bg.addons.mozilla.org
 ::1 versioncheck.addons.mozilla.org
+::1 versioncheck-bg.addons.mozilla.org
 ::1 webextensions.settings.services.mozilla.com
 ::1 wiki.mozilla.org

@@ -17,8 +17,8 @@
 ::1 apple.apple.com
 ::1 apple.com
 ::1 appleconnect.apple.com
-::1 appleid-it.apple.com
 ::1 appleid.apple.com
+::1 appleid-it.apple.com
 ::1 appleseed.apple.com
 ::1 appleseed3.apple.com
 ::1 appleseedtest.apple.com
@@ -35,13 +35,13 @@
 ::1 bugreporter.apple.com
 ::1 c.apple.com
 ::1 calendar.apple.com
-::1 certifications-test.apple.com
 ::1 certifications.apple.com
 ::1 certifications2.apple.com
+::1 certifications-test.apple.com
 ::1 checkcoverage.apple.com
 ::1 checkrepair.apple.com
-::1 concierge-mobile.apple.com
 ::1 concierge.apple.com
+::1 concierge-mobile.apple.com
 ::1 consultants.apple.com
 ::1 cooljobs.apple.com
 ::1 deimos.apple.com
@@ -62,8 +62,8 @@
 ::1 enterprise.apple.com
 ::1 ep.sap.apple.com
 ::1 erp.apple.com
-::1 esp-test.apple.com
 ::1 esp.apple.com
+::1 esp-test.apple.com
 ::1 euro.apple.com
 ::1 events.apple.com
 ::1 ext.apple.com
@@ -71,9 +71,9 @@
 ::1 extensions.apple.com
 ::1 files.apple.com
 ::1 gspa21.ls.apple.com
-::1 gsx-it.apple.com
 ::1 gsx.apple.com
 ::1 gsxit.apple.com
+::1 gsx-it.apple.com
 ::1 guide.apple.com
 ::1 help.apple.com
 ::1 hrweb.apple.com
@@ -107,8 +107,8 @@
 ::1 mobileaccess.apple.com
 ::1 movies.apple.com
 ::1 movietrailers.apple.com
-::1 myaccess-it.apple.com
 ::1 myaccess.apple.com
+::1 myaccess-it.apple.com
 ::1 mynews.apple.com
 ::1 mystore.apple.com
 ::1 news.apple.com

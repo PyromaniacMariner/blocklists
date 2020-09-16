@@ -95,9 +95,6 @@
 ||googl.com^
 ||googl.com^$popup
 ||googl.com^$third-party
-||google-analytics.com^
-||google-analytics.com^$popup
-||google-analytics.com^$third-party
 ||google.net^
 ||google.net^$popup
 ||google.net^$third-party
@@ -113,6 +110,9 @@
 ||googleanalytics.com^
 ||googleanalytics.com^$popup
 ||googleanalytics.com^$third-party
+||google-analytics.com^
+||google-analytics.com^$popup
+||google-analytics.com^$third-party
 ||googleapis.com^
 ||googleapis.com^$popup
 ||googleapis.com^$third-party
@@ -281,9 +281,6 @@
 ||youtu.be^
 ||youtu.be^$popup
 ||youtu.be^$third-party
-||youtube-nocookie.com^
-||youtube-nocookie.com^$popup
-||youtube-nocookie.com^$third-party
 ||youtube.com^
 ||youtube.com^$popup
 ||youtube.com^$third-party
@@ -293,6 +290,9 @@
 ||youtubegaming.com^
 ||youtubegaming.com^$popup
 ||youtubegaming.com^$third-party
+||youtube-nocookie.com^
+||youtube-nocookie.com^$popup
+||youtube-nocookie.com^$third-party
 ||yt.be^
 ||yt.be^$popup
 ||yt.be^$third-party

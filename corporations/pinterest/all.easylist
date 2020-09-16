@@ -44,9 +44,6 @@
 ||help.pinterest.com^
 ||help.pinterest.com^$popup
 ||help.pinterest.com^$third-party
-||i-h1.pinimg.com^
-||i-h1.pinimg.com^$popup
-||i-h1.pinimg.com^$third-party
 ||i.pinimg.com^
 ||i.pinimg.com^$popup
 ||i.pinimg.com^$third-party
@@ -59,6 +56,9 @@
 ||id.pinterest.com^
 ||id.pinterest.com^$popup
 ||id.pinterest.com^$third-party
+||i-h1.pinimg.com^
+||i-h1.pinimg.com^$popup
+||i-h1.pinimg.com^$third-party
 ||log.pinterest.com^
 ||log.pinterest.com^$popup
 ||log.pinterest.com^$third-party
@@ -77,12 +77,6 @@
 ||prod.pinterest.global.map.fastly.net^
 ||prod.pinterest.global.map.fastly.net^$popup
 ||prod.pinterest.global.map.fastly.net^$third-party
-||s-passets.pinimg.com^
-||s-passets.pinimg.com^$popup
-||s-passets.pinimg.com^$third-party
-||s-pinimg-com.gslb.pinterest.com^
-||s-pinimg-com.gslb.pinterest.com^$popup
-||s-pinimg-com.gslb.pinterest.com^$third-party
 ||s.pinimg.com^
 ||s.pinimg.com^$popup
 ||s.pinimg.com^$third-party
@@ -92,6 +86,12 @@
 ||s.pinimg.com.gslb.pinterest.com^
 ||s.pinimg.com.gslb.pinterest.com^$popup
 ||s.pinimg.com.gslb.pinterest.com^$third-party
+||s-passets.pinimg.com^
+||s-passets.pinimg.com^$popup
+||s-passets.pinimg.com^$third-party
+||s-pinimg-com.gslb.pinterest.com^
+||s-pinimg-com.gslb.pinterest.com^$popup
+||s-pinimg-com.gslb.pinterest.com^$third-party
 ||trk.pinterest.com^
 ||trk.pinterest.com^$popup
 ||trk.pinterest.com^$third-party

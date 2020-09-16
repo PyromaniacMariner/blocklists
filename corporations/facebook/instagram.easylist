@@ -23,6 +23,12 @@
 ||images.instagram.com^
 ||images.instagram.com^$popup
 ||images.instagram.com^$third-party
+||instagram.c10r.facebook.com^
+||instagram.c10r.facebook.com^$popup
+||instagram.c10r.facebook.com^$third-party
+||instagram.com^
+||instagram.com^$popup
+||instagram.com^$third-party
 ||instagram-shv-01-ams2.fbcdn.net^
 ||instagram-shv-01-ams2.fbcdn.net^$popup
 ||instagram-shv-01-ams2.fbcdn.net^$third-party
@@ -170,12 +176,6 @@
 ||instagram-shv-18-prn1.fbcdn.net^
 ||instagram-shv-18-prn1.fbcdn.net^$popup
 ||instagram-shv-18-prn1.fbcdn.net^$third-party
-||instagram.c10r.facebook.com^
-||instagram.c10r.facebook.com^$popup
-||instagram.c10r.facebook.com^$third-party
-||instagram.com^
-||instagram.com^$popup
-||instagram.com^$third-party
 ||instagramstatic-a.akamaihd.net^
 ||instagramstatic-a.akamaihd.net^$popup
 ||instagramstatic-a.akamaihd.net^$third-party
@@ -191,6 +191,9 @@
 ||platform.instagram.com^
 ||platform.instagram.com^$popup
 ||platform.instagram.com^$third-party
+||scontent.cdninstagram.com^
+||scontent.cdninstagram.com^$popup
+||scontent.cdninstagram.com^$third-party
 ||scontent-a.cdninstagram.com^
 ||scontent-a.cdninstagram.com^$popup
 ||scontent-a.cdninstagram.com^$third-party
@@ -251,9 +254,6 @@
 ||scontent-syd2-1.cdninstagram.com^
 ||scontent-syd2-1.cdninstagram.com^$popup
 ||scontent-syd2-1.cdninstagram.com^$third-party
-||scontent.cdninstagram.com^
-||scontent.cdninstagram.com^$popup
-||scontent.cdninstagram.com^$third-party
 ||telegraph-ash.instagram.com^
 ||telegraph-ash.instagram.com^$popup
 ||telegraph-ash.instagram.com^$third-party
